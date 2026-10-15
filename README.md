@@ -1,7 +1,4 @@
 ## Olá, sou Vícttor
-
-<!--
-Estudante de DS pela ETEC
-1/5
-
--->
+Cursando Desenvolvimento de sistemas pela ETEC.
+<br/>
+Alguns projetos estão sendo desenvolvidos para assim serem postados no perfil.
